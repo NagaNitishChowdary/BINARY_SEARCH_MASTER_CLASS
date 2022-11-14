@@ -7,6 +7,7 @@ using namespace std;
 int main(){
     int n ; cin >> n ;
     int low = 1 , high = n ;
+    // HIGH CAN BE N/2
     int ans = 1 ;
     while(low <= high){
         // int mid = (low + high)/2 ;
