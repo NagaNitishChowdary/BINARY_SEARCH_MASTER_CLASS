@@ -1,4 +1,4 @@
-// PROBLEM LINK --- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+// PROBLEM LINK --- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 
 #include <iostream>
 #include<bits/stdc++.h>
